@@ -298,6 +298,12 @@ Leading alumni engagement initiatives while supporting student-industry networki
 <img src="https://img.shields.io/badge/Microsoft-GitHub_Copilot_Certification-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+### MongoDB
+
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-Basics_Certification-111827?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+</p>
+
 ---
 
 # Coding Profiles
