@@ -270,39 +270,78 @@ Leading alumni engagement initiatives while supporting student-industry networki
 
 ---
 
+
 # Certifications
 
 ### AWS
 
 <p align="left">
-<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/44b34cc7ba6e40a6b8851c5729473313">
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+</a>
+
 </p>
+
+---
 
 ### Oracle Cloud Infrastructure
 
 <p align="left">
+
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=302764581E5CBB449194F94CD88BEACC6EC2C0416639091A1FA8B67981628742">
 <img src="https://img.shields.io/badge/OCI_2025-AI_Foundations_Associate-111827?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+</a>
+
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6E69B1566D94612349CA71B3610CD98893D7C263FFFFF8E349CAC034C3081E2B">
 <img src="https://img.shields.io/badge/OCI_2025-Data_Science_Professional-111827?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+</a>
+
 </p>
 
-### NPTEL
-
-<p align="left">
-<img src="https://img.shields.io/badge/NPTEL-Machine_Learning_IIT_Madras-111827?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL-Fundamental_Algorithms-111827?style=for-the-badge&logo=academia&logoColor=white"/>
-</p>
-
-### Microsoft
-
-<p align="left">
-<img src="https://img.shields.io/badge/Microsoft-GitHub_Copilot_Certification-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+---
 
 ### MongoDB
 
 <p align="left">
-<img src="https://img.shields.io/badge/MongoDB-Basics_Certification-111827?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+
+<a href="https://www.credly.com/badges/0e2531c9-3ec2-40e2-a6c7-df62d9b7b6b9/public_url">
+<img src="https://img.shields.io/badge/MongoDB-Certified_Developer_Associate_(C100DEV)-111827?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+</a>
+
 </p>
+
+---
+
+### NPTEL
+
+<p align="left">
+
+<a href="https://nptel.ac.in/noc/E_Certificate/NPTEL25CS91S37210409710271403">
+<img src="https://img.shields.io/badge/NPTEL-Introduction_to_Machine_Learning-111827?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
+
+<a href="https://storage.googleapis.com/2026-mar-halltickets/certificate-generation-mar26/final/regular/noc26-cs42/NOC26CS42S57170025803156606.pdf">
+<img src="https://img.shields.io/badge/NPTEL-Fundamental_Algorithms_Design_%26_Analysis-111827?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### Microsoft
+
+<p align="left">
+
+<a href="https://learn.microsoft.com/en-us/users/omprakhar-0402/credentials/9230fec93efd2690?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+<img src="https://img.shields.io/badge/Microsoft-GitHub_Copilot_Certification-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+**Issued:** Dec 2025  
+**Expires:** Dec 2027  
+**Credential ID:** `9230FEC93EFD2690`
 
 ---
 
