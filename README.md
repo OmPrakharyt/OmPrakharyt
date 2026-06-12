@@ -383,13 +383,15 @@ Leading alumni engagement initiatives while supporting student-industry networki
 
 ---
 
-# GitHub Trophies
+## GitHub Trophies
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=OmPrakharyt&theme=algolia&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=OmPrakharyt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
-
-</div>
 
 ---
 
